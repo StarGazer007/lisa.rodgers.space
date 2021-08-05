@@ -17,7 +17,7 @@
   <div class="news-item standard-item">
       <ul>
           <li><a href="#"><i class="lni lni-star lni-lg"></i>Thoughts</a></li>
-          <li><a href="#"><i class="lni lni-star lni-lg"></i>Learn</a></li>
+          <li><i class="lni lni-star lni-lg"></i><a href="#">Learn</a></li>
           <li><i class="lni lni-star lni-lg"></i><a href="https://lisa.rodgers.space/recipes">Recipes</a></li>
           <li><a href="#"><i class="lni lni-star lni-lg"></i>Buy</a></li>
           <li><a href="#"><i class="lni lni-star lni-lg"></i>Connect</a></li>
